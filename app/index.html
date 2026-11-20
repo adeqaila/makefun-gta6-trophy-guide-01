@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Leonida Legend — GTA 6 Trophy Guide &amp; Tracker</title>
+  <meta name="description" content="An offline guide and tracker for all 55 PlayStation 5 trophies of Grand Theft Auto VI, with a checklist, filters, spoiler mode and sourced guides.">
+  <link rel="stylesheet" href="style.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <header class="hero">
+    <p class="eyebrow">Grand Theft Auto VI &middot; PlayStation 5 &middot; 55 trophies</p>
+    <h1>Leonida Legend</h1>
+    <p class="tagline">Every GTA 6 trophy, explained and tracked &mdash; story, collectibles, activities and the road to the platinum.</p>
+    <div class="progress-block" aria-label="Platinum progress">
+      <div class="progress-line">
+        <span id="progress-text">0 / 55</span>
+        <span id="progress-percent">0% to the platinum</span>
+      </div>
+      <div class="progress-track"><div class="progress-fill" id="progress-fill" style="width: 0%"></div></div>
+      <p class="grade-counts">1 platinum &middot; 2 gold &middot; 6 silver &middot; 46 bronze</p>
+    </div>
+  </header>
+
+  <section class="controls" aria-label="Find and filter trophies">
+    <input id="search" type="search" placeholder="Search trophies, descriptions and guides&hellip;" autocomplete="off">
+    <div class="chips" id="kind-chips" role="group" aria-label="Filter by kind">
+      <button type="button" data-kind="all" class="chip active">All</button>
+      <button type="button" data-kind="story" class="chip">Story</button>
+      <button type="button" data-kind="missable" class="chip">Missable</button>
+      <button type="button" data-kind="collectibles" class="chip">Collectibles</button>
+      <button type="button" data-kind="activities" class="chip">Activities</button>
+      <button type="button" data-kind="online" class="chip">Online</button>
+    </div>
+    <div class="toggles">
+      <label class="spoiler-toggle"><input id="spoiler" type="checkbox"> Spoiler mode &mdash; hide unrevealed story trophies</label>
+      <div class="data-buttons">
+        <button type="button" id="export">Export progress</button>
+        <label class="import-label" for="import">Import progress</label>
+        <input id="import" type="file" accept="application/json,.json" hidden>
+        <button type="button" id="reset">Reset</button>
+      </div>
+    </div>
+    <p class="filter-status" id="filter-status"></p>
+  </section>
+
+  <section class="detail" id="detail" hidden aria-label="Open trophy guide"></section>
+
+  <main>
+    <h2 class="section-title">Trophy checklist</h2>
+    <p class="hint">Tick a trophy when you earn it &mdash; progress is saved in this browser. Open any card to read its guide and sources.</p>
+    <div class="grid" id="grid"></div>
+    <p class="empty" id="empty" hidden>No trophies match these filters. Try another kind or clear the search.</p>
+  </main>
+
+  <section class="roadmap" id="roadmap" aria-label="Roadmap to the platinum">
+    <h2 class="section-title">Roadmap to the platinum</h2>
+    <p class="hint">Five stages, in the order to play them. The counts below are the trophies each stage holds.</p>
+    <ol class="stages">
+      <li class="stage">
+        <h3>Stage 1 &mdash; Play the story, chapters 1&ndash;2</h3>
+        <p>Follow the main story from the opening through the early Vice City missions. Every story trophy here unlocks by finishing its mission, so nothing can be missed yet &mdash; just play, and let the story trophies land as the chapters fall. <span class="stage-count" data-stage="1"></span></p>
+      </li>
+      <li class="stage">
+        <h3>Stage 2 &mdash; Finish the story and meet Leonida</h3>
+        <p>See the story through to its ending and pick up the late story trophies, including the Strangers &amp; Freaks encounters. Mop up any story-gated side characters before the finale where the guide says so. <span class="stage-count" data-stage="2"></span></p>
+      </li>
+      <li class="stage">
+        <h3>Stage 3 &mdash; Collectibles across the map</h3>
+        <p>Work the map clean: every collectible set and its count, swept region by region so nothing is left for a second pass. This is where the list&rsquo;s only missable trophy lives &mdash; start its 18 meditation spots in Chapter 1, because the first spot is gone once that chapter closes. <span class="stage-count" data-stage="3"></span></p>
+      </li>
+      <li class="stage">
+        <h3>Stage 4 &mdash; Activities, challenges and robberies</h3>
+        <p>The long middle: shooting ranges, races, sports, side activities and robberies. These are grindable at any time after the story, so take them in whatever order suits you and chip away at the counted ones. <span class="stage-count" data-stage="4"></span></p>
+      </li>
+      <li class="stage">
+        <h3>Stage 5 &mdash; Money, 100% and the platinum</h3>
+        <p>Close out the money trophies and the last cleanup, then the platinum &mdash; Vice Got a Price! &mdash; pops the moment the other 54 are done. <span class="stage-count" data-stage="5"></span></p>
+      </li>
+    </ol>
+  </section>
+
+  <footer>
+    <p>Unofficial fan-made guide. Grand Theft Auto VI is not yet released, so every guide here is written from the official trophy list and the community sources it cites &mdash; never copied from them. No Rockstar Games logo, artwork or game screenshots are used.</p>
+    <p class="footer-note">Leonida Legend &middot; works fully offline &middot; your checklist never leaves this browser unless you export it.</p>
+  </footer>
+  <noscript><p class="noscript">This guide needs JavaScript to load its trophy list and save your checklist.</p></noscript>
+</body>
+</html>

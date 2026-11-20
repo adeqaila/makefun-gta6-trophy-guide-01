@@ -1,0 +1,1217 @@
+{
+  "game": "Grand Theft Auto VI",
+  "list": "the official 55 trophies, 2026-11-18",
+  "platform": "PlayStation 5",
+  "trophies": [
+    {
+      "count": null,
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "The platinum pops the moment the other 54 trophies are done, so it is a reward for finishing the whole list rather than a task of its own. Work through the roadmap in order — story first, then side characters, then Leonida's map, then activities and robberies, and finally the money and 100% cleanup — and this unlocks last. Expect the full journey to take around 200 hours.",
+      "hidden": false,
+      "id": 1,
+      "kind": "story",
+      "missable": false,
+      "name": "Vice Got a Price!",
+      "sources": [
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 5
+    },
+    {
+      "count": null,
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "Finish the opening mission, Gone Fishing, which introduces Lucia and Jason and sets the story in motion. It is the first mission of Chapter 1 and cannot be missed — just play the story and it pops when the mission ends.",
+      "hidden": true,
+      "id": 2,
+      "kind": "story",
+      "missable": false,
+      "name": "Just Like Paradise",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 1 in full. While you are here, do the first meditation spot: Lucia can meditate on the balcony at Jason's house during Chapter 1, and that spot is gone once the chapter ends — see Positive Mental Attitude for why that matters.",
+      "hidden": true,
+      "id": 3,
+      "kind": "story",
+      "missable": false,
+      "name": "Paradise Lost",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "PowerPyx",
+          "url": null
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 2. The chapter trophies unlock in order as the story advances, so there is nothing extra to hunt — keep playing the main missions and this one arrives on its own.",
+      "hidden": true,
+      "id": 4,
+      "kind": "story",
+      "missable": false,
+      "name": "T**s Ass Drug Money",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 3. Like the other chapter trophies, this one is automatic once the chapter's final mission is done — no side content is needed for it.",
+      "hidden": true,
+      "id": 5,
+      "kind": "story",
+      "missable": false,
+      "name": "Vice City, Baby!",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "Complete Chapter 4. Keep pushing through the main missions; the trophy unlocks when the chapter closes.",
+      "hidden": true,
+      "id": 6,
+      "kind": "story",
+      "missable": false,
+      "name": "Top Of The World, Ma",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "Complete the final mission of the game. This is the story's last beat, so it unlocks at the end of Chapter 5 — finish the campaign and the gold is yours. The story itself takes roughly 50 to 60 hours.",
+      "hidden": true,
+      "id": 7,
+      "kind": "story",
+      "missable": false,
+      "name": "You Gotta Know When to Get Off",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "Complete the mission Breakfast Run. Story missions unlock in order, so this pops when you reach and finish that mission in the campaign — there is no way to skip past it.",
+      "hidden": true,
+      "id": 8,
+      "kind": "story",
+      "missable": false,
+      "name": "Trust",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "Complete the mission The Cartel Heist. Play through the story until the heist mission appears, then finish it — the trophy follows automatically.",
+      "hidden": true,
+      "id": 9,
+      "kind": "story",
+      "missable": false,
+      "name": "Break the Bank",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Complete the mission Child's Play. Another story mission trophy — it unlocks when that mission is finished in the campaign.",
+      "hidden": true,
+      "id": 10,
+      "kind": "story",
+      "missable": false,
+      "name": "Family Matters",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Complete the mission Headliners. Finish the mission as part of the story and the trophy follows.",
+      "hidden": true,
+      "id": 11,
+      "kind": "story",
+      "missable": false,
+      "name": "DWNFALL",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "Complete the mission VCIA Takedown. A story mission trophy that pops on completion — keep playing the campaign and it comes to you.",
+      "hidden": true,
+      "id": 12,
+      "kind": "story",
+      "missable": false,
+      "name": "Hi-Jacked",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Complete the mission Operation Savage Glory. Finish the mission in the story and the trophy unlocks.",
+      "hidden": true,
+      "id": 13,
+      "kind": "story",
+      "missable": false,
+      "name": "Snow Storm",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "ofzenandcomputing",
+          "url": "https://www.ofzenandcomputing.com/gta-6-trophy-list-trophies-achievements/"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Attain 100% Completion — the hardest trophy in the game and the last stop before the platinum. Check your progress at Progress, then Stats, then 100% Completion once it appears after the story. Roughly 60% of true completion is the story itself; the rest is 70 of the 80 challenges, 200 of the 277 vehicles, 100 of the 255 animals, and the side content across Leonida. Do not expect this early: it is the final grind of Stage 5.",
+      "hidden": false,
+      "id": 14,
+      "kind": "story",
+      "missable": false,
+      "name": "A Long Road",
+      "sources": [
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        },
+        {
+          "name": "PowerPyx",
+          "url": null
+        }
+      ],
+      "stage": 5
+    },
+    {
+      "count": 250,
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "Complete 250 stunts. Stunts are the jumps, near-misses and airborne tricks the game tracks as you drive and ride around Leonida — they add up naturally if you drive fast and take ramps, but you can grind them deliberately by chaining jumps in open areas. Start early and let the count build while you do everything else.",
+      "hidden": false,
+      "id": 15,
+      "kind": "activities",
+      "missable": false,
+      "name": "Cunning Stunts",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "Try each type of activity once. Leonida is packed with things to do — the shooting range, drone races, races, fishing, arcade games and more — and this pops once you have sampled every type at least once. Work through the activities in Stage 4 and it will unlock on its own.",
+      "hidden": false,
+      "id": 16,
+      "kind": "activities",
+      "missable": false,
+      "name": "Master of None",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": 42,
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "Earn a gold medal in all 42 Shooting Range challenges. Head to a shooting range and work through every challenge, aiming for gold on each one — this is a test of accuracy and speed, so practise the weapon types you are weakest with and retry until each challenge is gold. There are 42 in total, so budget a real session for this.",
+      "hidden": false,
+      "id": 17,
+      "kind": "activities",
+      "missable": false,
+      "name": "The Shootist",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": 14,
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "Win a Top Fun Drone Race at every one of the 14 locations. Drone races are scattered across Leonida; win at each spot to fill the set. Learn each course's line before racing it flat out, and come back later if a location gives you trouble — nothing here is missable.",
+      "hidden": false,
+      "id": 18,
+      "kind": "activities",
+      "missable": false,
+      "name": "Top Fun",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": 20,
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Win 20 different races. Races across Leonida count toward this — win twenty distinct ones, in any vehicle class you like. Pick races you are comfortable with first, then branch out to reach twenty.",
+      "hidden": false,
+      "id": 19,
+      "kind": "activities",
+      "missable": false,
+      "name": "Earn Cash, Not Kudos",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Beat Cal in a fishing challenge. Find Cal and take him on at fishing — the challenge is a head-to-head, so land the better catch to win. Fishing is one of the activities you meet early in the story, so you will know the basics by the time the challenge is available.",
+      "hidden": false,
+      "id": 20,
+      "kind": "activities",
+      "missable": false,
+      "name": "Baited My Tackle",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Complete an arcade game. Find an arcade machine in Leonida, start a game and see it through to the end — any arcade game counts, so pick the one you enjoy most and finish it.",
+      "hidden": false,
+      "id": 21,
+      "kind": "activities",
+      "missable": false,
+      "name": "Stick Fiddler",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Andy. Andy is one of the side characters whose missions open up as the story progresses — work through his strand and finish his last mission. Do side-character missions when they appear, since their windows are tied to story progress.",
+      "hidden": true,
+      "id": 22,
+      "kind": "story",
+      "missable": false,
+      "name": "Road to Rehabilitation",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "TechWiser",
+          "url": null
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Kenton. Finish Kenton's mission strand to unlock this — like the other side characters, his missions appear as the story moves forward, so take them when they show up.",
+      "hidden": true,
+      "id": 23,
+      "kind": "story",
+      "missable": false,
+      "name": "This Was No Boat Accident",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "TechWiser",
+          "url": null
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Billy. Work through Billy's missions and finish the last one — another side-character strand to clear in Stage 2.",
+      "hidden": true,
+      "id": 24,
+      "kind": "story",
+      "missable": false,
+      "name": "The Lone Rider",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "TechWiser",
+          "url": null
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "count": 8,
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "Complete 8 mission strands for strangers across the state of Leonida. Stranger missions appear as you explore and progress the story — there are eight strands to finish, and their windows are tied to story progress, so take them when they show up rather than leaving them for after the finale.",
+      "hidden": false,
+      "id": 25,
+      "kind": "story",
+      "missable": false,
+      "name": "Strangers & Freaks",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "TechWiser",
+          "url": null
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Randy. Finish Randy's mission strand — the last mission in his chain pops this trophy.",
+      "hidden": true,
+      "id": 26,
+      "kind": "story",
+      "missable": false,
+      "name": "Supply & Demand",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "TechWiser",
+          "url": null
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "count": null,
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Complete the final mission for Tyrone. Finish Tyrone's mission strand to unlock this one.",
+      "hidden": true,
+      "id": 27,
+      "kind": "story",
+      "missable": false,
+      "name": "Spin On This!",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "TechWiser",
+          "url": null
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "count": 18,
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "Meditate at every spot across Leonida — all 18 of them. This is the game's only missable trophy, and the trap is the very first spot: Lucia can meditate on the balcony at Jason's house in Chapter 1, and that spot disappears once Chapter 1 ends, so do it early. The other 17 spots stay available, but with no mission replay and no New Game+, a missed first meditation means a new playthrough. Do this one first, before anything else.",
+      "hidden": false,
+      "id": 28,
+      "kind": "collectibles",
+      "missable": true,
+      "name": "Positive Mental Attitude",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "PowerPyx",
+          "url": null
+        }
+      ],
+      "stage": 3
+    },
+    {
+      "count": null,
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Hunt a unique animal for Bret. Bret's hunt is a side strand — track down the unique animal he is after and take it down. Do it when the strand appears, since stranger missions are tied to story progress.",
+      "hidden": true,
+      "id": 29,
+      "kind": "story",
+      "missable": false,
+      "name": "Fair Game",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "TechWiser",
+          "url": null
+        }
+      ],
+      "stage": 2
+    },
+    {
+      "count": 3,
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Complete 3 Collectible Card sets. Cards are hidden around Leonida — collect full sets, three of them, to pop this. It is a late-game cleanup trophy, so sweep for cards once the map is open to you in Stage 5.",
+      "hidden": false,
+      "id": 30,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "Don't Touch My Deck",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 5
+    },
+    {
+      "count": 100,
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "WAiNK It at 100 locations. The WAiNK It spots are scattered across Leonida — find and use 100 of them. Work through them as you explore in Stage 3; the in-game map is your friend here, and the count builds steadily if you stop at every spot you pass.",
+      "hidden": false,
+      "id": 31,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "You WAiNKer!",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 3
+    },
+    {
+      "count": 50,
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "Complete 50 Challenges. There are 80 challenges in total across 8 categories of 10, and you need 50 of them for this trophy — and 70 for 100% completion, so keep going past 50. Pick the categories that suit you and chip away at them through Stage 4.",
+      "hidden": false,
+      "id": 32,
+      "kind": "activities",
+      "missable": false,
+      "name": "One Last Thing",
+      "sources": [
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "Lose a 4 star Wanted Level with your partner and escape the heat. Get a four-star wanted level while your partner is with you, then break line of sight and lose the cops together — use fast driving and cover to shake the search until the stars clear.",
+      "hidden": false,
+      "id": 33,
+      "kind": "activities",
+      "missable": false,
+      "name": "Hot Together",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Rob three shops in a row with your partner at your side and keep the wanted level alive between them — plan a route between nearby shops so you are not stuck travelling with the heat on.",
+      "hidden": false,
+      "id": 34,
+      "kind": "activities",
+      "missable": false,
+      "name": "Retail Therapy",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": 100,
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "Discover 100 vehicles. Leonida has 277 vehicles in total, and you need to discover 100 of them — just drive or ride anything new you see and it counts. Exploring in Stage 3 will knock out a large chunk of this, and registering vehicles for the Scooter Bros app helps too.",
+      "hidden": false,
+      "id": 35,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "Whip It Good",
+      "sources": [
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 3
+    },
+    {
+      "count": null,
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Take down 5 enemies in a single use of Combat Focus. Trigger Combat Focus with a group of enemies close together and drop five of them before it ends — pick a crowded firefight and aim for the closest targets first.",
+      "hidden": false,
+      "id": 36,
+      "kind": "activities",
+      "missable": false,
+      "name": "Gunslinger",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "Make an unscheduled departure at VCIA. Head to Vice City International Airport and leave by a route the airport never scheduled — the description is deliberately vague, so try the runways and service areas until the trophy pops. No guide has published a precise method yet, so experiment at the airport itself.",
+      "hidden": true,
+      "id": 37,
+      "kind": "activities",
+      "missable": false,
+      "name": "Catch Me If You Can",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "PowerPyx",
+          "url": null
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "Kinda hot in these Rhinos. The Rhino is the game's tank — get behind the wheel of one and the trophy follows. No guide has published the exact spawn or method yet, so keep an eye out for Rhinos around military and high-security areas.",
+      "hidden": true,
+      "id": 38,
+      "kind": "activities",
+      "missable": false,
+      "name": "Challenging Tank",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "PowerPyx",
+          "url": null
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Rob a jewelry store without being detected. Pick a jewelry store, get in and out without raising the alarm — move quietly, avoid cameras and staff sightlines, and leave before anyone notices. If you are spotted, the attempt fails, so plan your exit before you start.",
+      "hidden": false,
+      "id": 39,
+      "kind": "activities",
+      "missable": false,
+      "name": "Sneakthief",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": 5,
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "Rob 5 Bank Vaults and escape. Hit five bank vaults and get away clean each time — plan your escape route before you go in, and do not linger once the vault is open. Each vault you rob and escape from counts toward the five.",
+      "hidden": false,
+      "id": 40,
+      "kind": "activities",
+      "missable": false,
+      "name": "Maximum Withdrawal",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Rob an Armored Truck and escape. Find an armored truck on the road, stop it, take the cash and escape before the police close in. Trucks run regular routes, so watch the roads and strike when one is isolated.",
+      "hidden": false,
+      "id": 41,
+      "kind": "activities",
+      "missable": false,
+      "name": "A Classic Blitz Play",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": 52,
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Explore all of Leonida — all 52 areas. Travel to every named area of the state; the map fills in as you go. A systematic sweep in Stage 3 is the reliable way to finish this — work area by area instead of wandering and hoping.",
+      "hidden": false,
+      "id": 42,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "The Goodtime State",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 3
+    },
+    {
+      "count": 9,
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "Rob an Illegal Operation belonging to each gang — one for each of the 9 gangs. Find each gang's illegal operation, rob it, and move on to the next gang until all nine are done. The operations are spread across Leonida, so this pairs well with the exploration sweep in Stage 3.",
+      "hidden": false,
+      "id": 43,
+      "kind": "activities",
+      "missable": false,
+      "name": "Pest Control",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "Enjoy a cocktail with a view on Ocean Beach. At launch no guide has confirmed the exact trigger for this one — the description is the only hint: head to Ocean Beach, find a spot with a view, and order a cocktail. If it does not pop, it may be tied to a specific bar or time of day that the community has not pinned down yet. This entry will say so honestly rather than invent a location.",
+      "hidden": true,
+      "id": 44,
+      "kind": "activities",
+      "missable": false,
+      "name": "In The Beginning…",
+      "sources": [
+        {
+          "name": "PowerPyx",
+          "url": null
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "Smash your way out of a vehicle showroom in classic style. No confirmed trigger at launch — the description points at a vehicle showroom: drive in, then smash your way out. The exact showroom or method has not been confirmed by any guide yet, so try the showrooms you find in Vice City and see which one triggers it.",
+      "hidden": true,
+      "id": 45,
+      "kind": "activities",
+      "missable": false,
+      "name": "Capital Offense",
+      "sources": [
+        {
+          "name": "PowerPyx",
+          "url": null
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "Follow-through at the Kolt & Associates' bowling alley. No confirmed trigger at launch — head to the Kolt & Associates bowling alley and bowl a game; the description's follow-through hints at completing a full game there rather than a single throw.",
+      "hidden": true,
+      "id": 46,
+      "kind": "activities",
+      "missable": false,
+      "name": "Let’s Go Bowling",
+      "sources": [
+        {
+          "name": "PowerPyx",
+          "url": null
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": null,
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "A partnership with mass appeal. No confirmed trigger at launch — the description hints at a story moment involving the partnership between Lucia and Jason reaching a wide audience. It is listed as a story trophy, so keep playing the campaign and it should unlock in its own time.",
+      "hidden": true,
+      "id": 47,
+      "kind": "story",
+      "missable": false,
+      "name": "Personal Best",
+      "sources": [
+        {
+          "name": "PowerPyx",
+          "url": null
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": 500,
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "Choices made (for better or worse). This one is tied to the Criminal Profile, and one of its outcomes — Irredeemable — is permanent, so check a Criminal Profile guide before making choices you cannot take back. PlayStation tracks a count toward 500 for this trophy, so expect a long series of choices across the game rather than a single decision.",
+      "hidden": true,
+      "id": 48,
+      "kind": "story",
+      "missable": false,
+      "name": "Actions Speak Louder",
+      "sources": [
+        {
+          "name": "PowerPyx",
+          "url": null
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "Second time's the charm. No confirmed trigger at launch — the description suggests succeeding at something on a second attempt. It is a story trophy, so it will likely come from a specific story beat; the community has not pinned it down yet.",
+      "hidden": true,
+      "id": 49,
+      "kind": "story",
+      "missable": false,
+      "name": "Bad Luck, I Guess",
+      "sources": [
+        {
+          "name": "PowerPyx",
+          "url": null
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "What the hell just happened? No confirmed trigger at launch — the description suggests witnessing something strange or unexplained in Leonida. Keep an eye out for odd encounters as you play the story.",
+      "hidden": true,
+      "id": 50,
+      "kind": "story",
+      "missable": false,
+      "name": "The Truth Is Out There",
+      "sources": [
+        {
+          "name": "PowerPyx",
+          "url": null
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 1
+    },
+    {
+      "count": null,
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "Bowl 'em over with a melee drive-by. No confirmed trigger at launch — the description suggests knocking someone down with a melee attack from a moving vehicle, most likely at or near a bowling alley. The exact method has not been confirmed by any guide yet.",
+      "hidden": true,
+      "id": 51,
+      "kind": "activities",
+      "missable": false,
+      "name": "Ten Pin",
+      "sources": [
+        {
+          "name": "PowerPyx",
+          "url": null
+        },
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        }
+      ],
+      "stage": 4
+    },
+    {
+      "count": 250000,
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills come from robberies and other illicit income — launder them through your contacts until $250,000 has been cleaned. This is a Stage 5 money goal, so save your marked bills and launder steadily rather than spending them dirty.",
+      "hidden": false,
+      "id": 52,
+      "kind": "activities",
+      "missable": false,
+      "name": "Dime on the Dollar",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 5
+    },
+    {
+      "count": 100000,
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "Spend $100,000 across all shops. Buy clothes, weapons, food and anything else across Leonida's shops until you have spent $100,000 in total. It pairs naturally with the laundering grind — clean money in, spending out.",
+      "hidden": false,
+      "id": 53,
+      "kind": "activities",
+      "missable": false,
+      "name": "Treat Yo Self",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 5
+    },
+    {
+      "count": 8,
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "Purchase all garage properties — all 8 of them. Garages are bought around Leonida; owning all eight pops the trophy and gives you somewhere to store the vehicles you discover for Whip It Good and On the Spot.",
+      "hidden": false,
+      "id": 54,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "Little Boxes",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 3
+    },
+    {
+      "count": 10,
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Register 10 vehicles to the Scooter Bros app. Discover vehicles, then register ten of them in the Scooter Bros app — it ties into the vehicle discovery grind, so register as you go rather than saving it all for the end.",
+      "hidden": false,
+      "id": 55,
+      "kind": "collectibles",
+      "missable": false,
+      "name": "On the Spot",
+      "sources": [
+        {
+          "name": "GTABase",
+          "url": "https://www.gtabase.com/articles/gta-6/gta-6-achievements-trophies-list-ps5-xbox-series"
+        },
+        {
+          "name": "LFCarry",
+          "url": "https://lfcarry.com/guides/gta-6-platinum-trophy-guide"
+        }
+      ],
+      "stage": 3
+    }
+  ]
+}
